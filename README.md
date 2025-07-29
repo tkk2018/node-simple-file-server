@@ -31,5 +31,5 @@ curl http://localhost:3000/files
 To download a file:
 
 ```bash
-curl http://localhost:3000/download/file.txt -O
+curl http://localhost:3000/download/filename -O
 ```
